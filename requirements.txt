@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sentence-transformers
+chromadb
+pypdf
+ollama
+python-dotenv
+langchain-text-splitters
+streamlit
+requests
+python-multipart
